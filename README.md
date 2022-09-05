@@ -10,3 +10,4 @@ My contributions:
   - Helped develop the interactive lessons
 
 Application developed in C++ using QT
+Developed with Dana Ahn, Roberto Del Rosario, Kevin Matsui, Ethan Falconer
