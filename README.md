@@ -8,3 +8,5 @@ My contributions:
     - multiple choice
   - Model side code
   - Helped develop the interactive lessons
+
+Application developed in C++ using QT
